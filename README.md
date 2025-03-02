@@ -107,8 +107,10 @@ uvicorn backend.main:app --host 0.0.0.0 --port 8000
 
 
 ## 👨‍💻 Author
-**[Diganta Diasi](https://digantadiasi195.github.io/MyPortfolio/)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/digantadiasi/)  
+**[Tapan Mahata](shorturl.at/4DV0L)**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tapan-mahata-949a621b9/)
+🔗 [X](https://x.com/TapanMahata19)
+
 
 ## ⭐ Support & Contribution
 If you find this useful, give it a ⭐ on GitHub! Contributions are welcome. 😊
