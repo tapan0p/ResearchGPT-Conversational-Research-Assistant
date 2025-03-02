@@ -107,7 +107,7 @@ uvicorn backend.main:app --host 0.0.0.0 --port 8000
 
 
 ## 👨‍💻 Author
-**[Tapan Mahata](shorturl.at/4DV0L/)**  
+**[Tapan Mahata](https://lowly-flare-def.notion.site/Hello-I-am-Tapan-Mahata-1962e4006f988076be0cd7e412295f24)**  
 🔗 [LinkedIn](https://www.linkedin.com/in/tapan-mahata-949a621b9/)
 🔗 [X](https://x.com/TapanMahata19)
 
