@@ -1,0 +1,30 @@
+# Core Frameworks
+fastapi==0.109.0
+uvicorn==0.27.0
+streamlit==1.31.0
+arxiv==2.0.0
+
+# Database & Data Processing
+neo4j==5.15.0
+pandas==2.2.3
+numpy==1.26.4
+
+# API & Web Requests
+requests==2.31.0
+httpx==0.25.2
+starlette==0.35.1
+
+# LLM & AI Models
+transformers==4.49.0
+torch==2.6.0
+ollama==0.1.5
+
+# Environment & Config
+python-dotenv==1.0.0
+
+# Utilities
+beautifulsoup4==4.12.2
+PyPDF2==3.0.1
+regex==2024.11.6
+scipy==1.15.2
+tqdm==4.67.1
