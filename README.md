@@ -50,8 +50,8 @@ academic_research_assistant/
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/digantadiasi195/Academic_Research_Paper_Assistant
-cd Academic_Research_Paper_Assistant
+https://github.com/tapan0p/ResearchGPT-Conversational-Research-Assistant.git
+cd ResearchGPT-Conversational-Research-Assistant
 ```
 
 ### **2️⃣ Install Dependencies**
